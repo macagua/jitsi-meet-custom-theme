@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 300 200"
+   id="svg9"
+   version="1.1"
+   sodipodi:docname="lsn_logo_white_opt.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.035"
+     inkscape:cx="149.93804"
+     inkscape:cy="100"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1-2" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill:#0093c9}.cls-2{fill:#fff}</style>
+  </defs>
+  <g
+     id="Layer_2"
+     data-name="Layer 2">
+    <g
+       id="Layer_1-2"
+       data-name="Layer 1">
+      <path
+         class="cls-1"
+         d="M156.85 100a68.68 68.68 0 1 1-68.67-68.68A68.67 68.67 0 0 1 156.85 100"
+         id="path1"
+         fill="#fff"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         class="cls-2"
+         d="M34.09 128.12V71.8h11v47h16.62v9.3z"
+         id="path2"
+         fill="#0093c9"
+         style="fill:#0093c9;fill-opacity:1" />
+      <path
+         class="cls-2"
+         d="M65.7 128.12V71.8h11v56.32z"
+         id="path3"
+         fill="#0093c9"
+         style="fill:#0093c9;fill-opacity:1" />
+      <path
+         class="cls-2"
+         d="M93.44 80.59v14.8h12.3v8.8h-12.3v23.93h-11V71.8h27.7v8.79z"
+         id="path4"
+         fill="#0093c9"
+         style="fill:#0093c9;fill-opacity:1" />
+      <path
+         class="cls-2"
+         d="M114.14 128.12V71.8h28.33v9h-17.28v14h11.94v8.29h-11.94v15.65h17.28v9.38z"
+         id="path5"
+         fill="#0093c9"
+         style="fill:#0093c9;fill-opacity:1" />
+      <path
+         class="cls-1"
+         d="M179 129.39c-10.16 0-16.49-5.75-16.49-14.55V111h10.16v3.3c0 4.14 2 6.43 6.06 6.43s5.88-2.2 5.88-5.67c0-4.48-3-7.53-8.91-11.67-6.08-4.19-12.7-9.77-12.7-17.64 0-8.12 5.52-15.14 16.21-15.14 9.36 0 15.59 6.09 15.59 14.46v3.64h-10.03v-3.38c0-3.47-1.87-6-5.62-6-3.21 0-5.34 2-5.34 5.08 0 4.73 2.94 7.19 9.53 11.75 7 5 12 10.07 12 17.68.03 9.04-6.57 15.55-16.34 15.55"
+         id="path6"
+         fill="#fff"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         class="cls-1"
+         d="M199.27 128.12V71.8h11v56.32z"
+         id="path7"
+         fill="#fff"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         class="cls-1"
+         d="M236.92 81.1v47h-11.13v-47h-11v-9.3h33v9.3z"
+         id="path8"
+         fill="#fff"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         class="cls-1"
+         d="M252.17 128.12V71.8h28.33v9h-17.28v14h11.93v8.29h-11.93v15.64h17.28v9.39z"
+         id="path9"
+         fill="#fff"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         id="rect9"
+         d="M0 0h300v200H0z"
+         fill="none" />
+    </g>
+  </g>
+</svg>
