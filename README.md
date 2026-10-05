@@ -1,5 +1,7 @@
 # LifeSite News Jitsi Custom Theme
 
+This is a fork project from the [VitalPBX/VitalPBX-Meet](https://github.com/VitalPBX/VitalPBX-Meet) repository.
+
 ## Features
 
 - Custom images
