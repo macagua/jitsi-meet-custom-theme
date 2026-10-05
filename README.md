@@ -1,5 +1,15 @@
 # LifeSite News Jitsi Custom Theme
 
+## Features
+
+- Custom images
+
+- Custom translations
+
+- Custom CSS styles
+
+- Custom HTML templtes
+
 ## Installation
 
 For install custom theme with the *LifeSite News* Debraning, executing the following steps:
