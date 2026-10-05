@@ -1,6 +1,8 @@
-# LifeSite News Jitsi Custom Theme
+# Jitsi Meet Custom Theme
 
-This is a fork project from the [VitalPBX/VitalPBX-Meet](https://github.com/VitalPBX/VitalPBX-Meet) repository.
+This repository is a [Jitsi Meet](https://meet.jit.si/) Custom Theme for [LifeSite News](https://www.lifesitenews.com/).
+
+**NOTE:** It is a fork project from the [VitalPBX/VitalPBX-Meet](https://github.com/VitalPBX/VitalPBX-Meet) repository.
 
 ## Features
 
