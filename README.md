@@ -1,5 +1,7 @@
 # LifeSite News Jitsi Custom Theme
 
+## Installation
+
 For install custom theme with the *LifeSite News* Debraning, executing the following steps:
 
 Step 1: Clone the Repository
@@ -48,3 +50,13 @@ sudo tail -f /var/log/nginx/access.log
 ```
 
 Congratulations! You have successfully installed Jitsi Meet custom theme on your `LSN` platform.
+
+## Screenshots
+
+### Landing page
+
+<img width="800" alt="Landing page" src="./jitsi-meet/images/screenshot_step_00.png">
+
+### Chatroom login
+
+<img width="800" alt="Chatroom login" src="./jitsi-meet/images/screenshot_step_01.png">
