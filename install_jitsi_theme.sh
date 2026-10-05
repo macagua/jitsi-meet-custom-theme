@@ -6,6 +6,26 @@ echo -e "***********************************************************************
 echo -e "*              Welcome to the LSN Conferencing installation                    *"
 echo -e "*                          Powered by Jitsi Meet                               *"
 echo -e "********************************************************************************"
+echo -e "*                          Update & Install firewall                           *"
+sudo apt -y update
+sudo apt -y install ufw
+echo -e "*                      Downloading Jitsi's public GPG key                      *"
+curl -fsSL https://download.jitsi.org/jitsi-key.gpg.key -o /etc/apt/keyrings/jitsi-key.gpg.key
+echo -e "*            Adding Jitsi's official repository            *"
+echo "deb [signed-by=/etc/apt/keyrings/jitsi-key.gpg.key] https://download.jitsi.org stable/" | tee /etc/apt/sources.list.d/jitsi.list
+echo -e "*                  We update the system                    *"
+apt update
+echo -e "*                              Firewall Settings                               *"
+sudo ufw allow in ssh
+sudo ufw allow 80/tcp
+sudo ufw allow 443/tcp
+sudo ufw allow 4443/tcp
+sudo ufw allow 10000:20000/udp
+sudo ufw allow 3478/udp
+sudo ufw allow 5349/tcp
+sudo ufw enable
+echo -e "*                We proceed with the installation of JitSi Meet                *"
+apt -y install jitsi-meet
 echo -e "*                  We copy the images to use in the Branding                   *"
 sudo cp -a /usr/share/jitsi-meet/images/apple-touch-icon.png /usr/share/jitsi-meet/images/apple-touch-icon.png.bak
 sudo cp ./jitsi-meet/images/apple-touch-icon.png /usr/share/jitsi-meet/images/apple-touch-icon.png
